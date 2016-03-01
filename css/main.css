@@ -13,13 +13,13 @@ body {
   text-align: center;
 
 p {
-  color: darkgoldenrod;
+  color: gold;
   font-weight: bold;
 }
 
 p span {
   display: block;
 
-  color gold;
+  color: gold;
   font-size: 5rem;
 }
